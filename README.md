@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyoubLaar , I am curently studying for a license in Computer science (LMD System) . 
-- 👀 I’m interested in Computers and other breakthrough inventions .
-- 🌱 I have a good decent of C ,javascript ,css ,Linux and html . 
+- 👀 I’m interested in Computers and other technologies .
+- 🌱 I have a decent understanding of C ,javascript ,css ,Linux and html . 
 - 💞️ I am currently studying c++ and sql .
 - 📫 
 <!---
