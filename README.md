@@ -37,9 +37,7 @@ Competent in building robust, scalable systems and crafting solutions for data p
 ---
 
 ## 🌐 **Let's Connect**
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/your-github)  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
+- Email: [ayoub.laarouchi@gmail.com](ayoub.laarouchi@gmail.com)  
 
 Feel free to reach out if you'd like to collaborate or discuss ideas!  
 
